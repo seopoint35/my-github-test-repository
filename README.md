@@ -1,3 +1,3 @@
 # my-github-test-repository
 Hear is My Test Repository  
-README.md file just Edited Manually (This change in locally)
+This line changed manually after confict
