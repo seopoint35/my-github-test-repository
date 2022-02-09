@@ -1,3 +1,6 @@
-just another file just created in feature-1 brach
+This line was replace in feature-2 branch
 
 another-file.txt is just changed locally
+
+
+this line added by feature-2 branch
